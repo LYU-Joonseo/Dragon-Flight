@@ -1,0 +1,355 @@
+fileFormatVersion: 2
+guid: 4889dad455e0c9147a1623d716804753
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 70
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fire1_10
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 794
+        width: 137
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39bc6e8184d09a4f8d9f985351ed78e
+      internalID: 827171499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire1_15
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 802
+        width: 93
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b4edf698889814db890a8d1ade3f42
+      internalID: 545847165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire1_20
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 657
+        width: 34
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f27bbb69bc07d43afb896f900e6945
+      internalID: 1446229729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire1_44
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 467
+        width: 28
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e62a8e807cc10e45be06eb70898cd55
+      internalID: -567114330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      fire1_0: 1225477923
+      fire1_1: 803888158
+      fire1_10: 827171499
+      fire1_100: -458239832
+      fire1_101: -2034362592
+      fire1_102: 1819027200
+      fire1_103: 2040352614
+      fire1_104: -997665406
+      fire1_105: 1701112258
+      fire1_106: 311297723
+      fire1_107: -1605120242
+      fire1_108: 1585260412
+      fire1_109: -372207626
+      fire1_11: -1130160842
+      fire1_110: -1318005217
+      fire1_111: 1795820641
+      fire1_112: 547974786
+      fire1_113: 1856800472
+      fire1_114: -1934392189
+      fire1_115: -764111801
+      fire1_116: 590302217
+      fire1_117: 1399389049
+      fire1_12: 2057556845
+      fire1_13: 2105908137
+      fire1_14: -800519387
+      fire1_15: 545847165
+      fire1_16: -1904833322
+      fire1_17: -1482511238
+      fire1_18: -1711418522
+      fire1_19: -2063406483
+      fire1_2: 308874015
+      fire1_20: 1446229729
+      fire1_21: 337513182
+      fire1_22: -1550248393
+      fire1_23: -467581441
+      fire1_24: -1421119979
+      fire1_25: -1011278613
+      fire1_26: -1327692961
+      fire1_27: -1249463980
+      fire1_28: -2114538947
+      fire1_29: -789977248
+      fire1_3: 1061223506
+      fire1_30: 1873916170
+      fire1_31: -1059584599
+      fire1_32: 1326485530
+      fire1_33: 770964911
+      fire1_34: 417743120
+      fire1_35: -217352392
+      fire1_36: 1106728166
+      fire1_37: -1195421297
+      fire1_38: 1265433636
+      fire1_39: 1585687185
+      fire1_4: 555750808
+      fire1_40: 1114323724
+      fire1_41: 1319129421
+      fire1_42: -1329570485
+      fire1_43: -924304365
+      fire1_44: -567114330
+      fire1_45: -192803733
+      fire1_46: -85980676
+      fire1_47: -1968476911
+      fire1_48: -811965542
+      fire1_49: 513825489
+      fire1_5: 1812095455
+      fire1_50: -1951992110
+      fire1_51: -840726253
+      fire1_52: 290044877
+      fire1_53: 801498606
+      fire1_54: 245880781
+      fire1_55: -361050805
+      fire1_56: -528254743
+      fire1_57: -1190931069
+      fire1_58: -1911969732
+      fire1_59: 443171234
+      fire1_6: -1215177282
+      fire1_60: -1397953401
+      fire1_61: 1544683977
+      fire1_62: 338275995
+      fire1_63: 1526042743
+      fire1_64: 896252008
+      fire1_65: 2098293033
+      fire1_66: -946449654
+      fire1_67: 1697175951
+      fire1_68: -327798940
+      fire1_69: 1447899612
+      fire1_7: -1325449743
+      fire1_70: -1905074991
+      fire1_71: -1370839523
+      fire1_72: -2037533821
+      fire1_73: -228036709
+      fire1_74: 670762474
+      fire1_75: 1640790393
+      fire1_76: 801529713
+      fire1_77: 1282990260
+      fire1_78: -506804778
+      fire1_79: 2031691946
+      fire1_8: 36106115
+      fire1_80: -553083079
+      fire1_81: -258869746
+      fire1_82: -2115963487
+      fire1_83: 1493640335
+      fire1_84: 764779445
+      fire1_85: 1840596558
+      fire1_86: 240022296
+      fire1_87: -1148877889
+      fire1_88: -708150283
+      fire1_89: -1433372735
+      fire1_9: 869259156
+      fire1_90: -1748920083
+      fire1_91: 1150496284
+      fire1_92: -443984383
+      fire1_93: 1313962746
+      fire1_94: 483939131
+      fire1_95: 1696188539
+      fire1_96: -1114048659
+      fire1_97: 1341515912
+      fire1_98: 33176290
+      fire1_99: 781014137
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

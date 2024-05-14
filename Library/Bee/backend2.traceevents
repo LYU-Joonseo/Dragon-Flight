@@ -1,0 +1,301 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1710238030086440, "dur":16249, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1710238030102696, "dur":71, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1710238030102796, "dur":324, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1710238030103135, "dur":1840, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1710238030104976, "dur":97460, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1710238030202437, "dur":308, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1710238030202889, "dur":1455, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1710238030103210, "dur":1774, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1710238030104987, "dur":1099, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1710238030106086, "dur":1816, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1710238030122572, "dur":507, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1710238030126449, "dur":741, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1710238030123096, "dur":4101, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1710238030127243, "dur":8213, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/Unity.2D.Tilemap.Extras.dll" }}
+,{ "pid":12345, "tid":1, "ts":1710238030135872, "dur":5275, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1710238030141180, "dur":14575, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1710238030155772, "dur":46642, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1710238030103208, "dur":1771, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1710238030104981, "dur":2917, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1710238030109068, "dur":54, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1710238030109277, "dur":289, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":2, "ts":1710238030109570, "dur":80, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1710238030109656, "dur":80, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":2, "ts":1710238030109873, "dur":315, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\unity_project\\Dragon Flight\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Collections.dll" }}
+,{ "pid":12345, "tid":2, "ts":1710238030110191, "dur":73, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\unity_project\\Dragon Flight\\Library\\Bee\\PlayerScriptAssemblies\\Unity.2D.PixelPerfect.dll" }}
+,{ "pid":12345, "tid":2, "ts":1710238030110265, "dur":534, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\unity_project\\Dragon Flight\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":2, "ts":1710238030110800, "dur":384, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\unity_project\\Dragon Flight\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":2, "ts":1710238030111251, "dur":87, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\Player843ffbec-inputdata.json" }}
+,{ "pid":12345, "tid":2, "ts":1710238030109569, "dur":1874, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1710238030112851, "dur":83754, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1710238030198782, "dur":2997, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1710238030198781, "dur":2999, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1710238030201795, "dur":571, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/boot.config" }}
+,{ "pid":12345, "tid":3, "ts":1710238030103294, "dur":1707, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1710238030105004, "dur":638, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1710238030105642, "dur":2395, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1710238030108037, "dur":102, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/unity_project/Build/Dragon Flight test2/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":3, "ts":1710238030126469, "dur":1250, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":3, "ts":1710238030127775, "dur":2502, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/Unity.Burst.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710238030130324, "dur":1728, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710238030132100, "dur":3082, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710238030135233, "dur":3429, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710238030138714, "dur":4043, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710238030142811, "dur":1543, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":3, "ts":1710238030144399, "dur":58009, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1710238030103238, "dur":1752, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1710238030104992, "dur":833, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1710238030105826, "dur":2170, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1710238030108007, "dur":102, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\web.config" }}
+,{ "pid":12345, "tid":4, "ts":1710238030107996, "dur":113, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/unity_project/Build/Dragon Flight test2/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1710238030124216, "dur":79, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1710238030124366, "dur":924, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1710238030127930, "dur":50, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1710238030125344, "dur":2665, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/Unity.2D.PixelPerfect.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710238030128162, "dur":2630, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710238030131055, "dur":2511, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710238030133627, "dur":3858, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710238030137554, "dur":3420, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710238030141048, "dur":3554, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710238030144647, "dur":57752, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1710238030103267, "dur":1728, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1710238030104998, "dur":833, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1710238030105831, "dur":2154, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1710238030107986, "dur":98, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/unity_project/Build/Dragon Flight test2/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":5, "ts":1710238030123391, "dur":1007, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":5, "ts":1710238030124454, "dur":1875, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":5, "ts":1710238030126468, "dur":2129, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":5, "ts":1710238030128648, "dur":1890, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":5, "ts":1710238030130611, "dur":2732, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1710238030133785, "dur":3658, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1710238030137500, "dur":3548, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1710238030141100, "dur":3731, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1710238030144933, "dur":57485, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1710238030103314, "dur":1726, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1710238030105074, "dur":669, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1710238030105042, "dur":1067, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1710238030106109, "dur":1802, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1710238030110881, "dur":72, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1710238030108348, "dur":2615, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":6, "ts":1710238030111022, "dur":55, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":6, "ts":1710238030111020, "dur":57, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/unity_project/Build/Dragon Flight test2/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":6, "ts":1710238030111304, "dur":1285, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":6, "ts":1710238030114081, "dur":3521, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":6, "ts":1710238030117710, "dur":1950, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":6, "ts":1710238030119719, "dur":2925, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":6, "ts":1710238030122701, "dur":1981, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/System.Runtime.dll" }}
+,{ "pid":12345, "tid":6, "ts":1710238030126486, "dur":437, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1710238030124728, "dur":2219, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":6, "ts":1710238030127008, "dur":2910, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/Unity.2D.Common.Runtime.dll" }}
+,{ "pid":12345, "tid":6, "ts":1710238030129973, "dur":1762, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1710238030131803, "dur":1937, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1710238030133794, "dur":3488, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1710238030137331, "dur":3384, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1710238030140809, "dur":4484, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1710238030145332, "dur":57064, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1710238030103357, "dur":1687, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1710238030105046, "dur":832, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1710238030105878, "dur":2041, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1710238030107922, "dur":51, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/unity_project/Build/Dragon Flight test2/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":7, "ts":1710238030131471, "dur":1707, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":7, "ts":1710238030133235, "dur":3701, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1710238030137022, "dur":3305, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1710238030140383, "dur":4108, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1710238030144583, "dur":57818, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1710238030103384, "dur":1718, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1710238030105103, "dur":725, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1710238030105828, "dur":2221, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1710238030108049, "dur":130, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/unity_project/Build/Dragon Flight test2/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1710238030126985, "dur":1615, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1710238030128881, "dur":5757, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1710238030134665, "dur":3416, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1710238030138109, "dur":2967, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1710238030141128, "dur":9813, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":8, "ts":1710238030150967, "dur":51436, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1710238030103417, "dur":1722, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1710238030105140, "dur":352, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1710238030105493, "dur":2567, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1710238030108060, "dur":146, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/unity_project/Build/Dragon Flight test2/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":9, "ts":1710238030131529, "dur":2039, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":9, "ts":1710238030133594, "dur":3978, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1710238030137598, "dur":2901, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1710238030140525, "dur":4949, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1710238030145496, "dur":56910, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1710238030103458, "dur":1858, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1710238030105316, "dur":2754, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1710238030125553, "dur":63, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1710238030126726, "dur":363, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1710238030125629, "dur":1476, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":10, "ts":1710238030127139, "dur":3263, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":10, "ts":1710238030130473, "dur":2315, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1710238030132835, "dur":2747, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1710238030135608, "dur":3072, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1710238030138709, "dur":3246, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1710238030142001, "dur":2189, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":10, "ts":1710238030144223, "dur":1124, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":10, "ts":1710238030145365, "dur":57050, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1710238030103484, "dur":1839, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1710238030105324, "dur":2742, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1710238030108067, "dur":166, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/unity_project/Build/Dragon Flight test2/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":11, "ts":1710238030109678, "dur":1416, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":11, "ts":1710238030111585, "dur":2414, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":11, "ts":1710238030114539, "dur":3175, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":11, "ts":1710238030117774, "dur":927, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":11, "ts":1710238030118736, "dur":1262, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":11, "ts":1710238030120019, "dur":2870, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":11, "ts":1710238030125602, "dur":151, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1710238030122941, "dur":2816, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/Unity.Burst.Unsafe.dll" }}
+,{ "pid":12345, "tid":11, "ts":1710238030125808, "dur":1837, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":11, "ts":1710238030127674, "dur":2916, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":11, "ts":1710238030130674, "dur":1464, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1710238030132168, "dur":4068, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1710238030136277, "dur":3453, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1710238030139788, "dur":3909, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1710238030143740, "dur":1922, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/resources.assets" }}
+,{ "pid":12345, "tid":11, "ts":1710238030145677, "dur":56721, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1710238030103526, "dur":1909, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1710238030105435, "dur":2627, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1710238030108070, "dur":172, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\web.config" }}
+,{ "pid":12345, "tid":12, "ts":1710238030108063, "dur":180, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/unity_project/Build/Dragon Flight test2/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":12, "ts":1710238030109451, "dur":1046, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":12, "ts":1710238030110635, "dur":803, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":12, "ts":1710238030111476, "dur":448, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Temp\\StagingArea\\WindowsPlayer.exe" }}
+,{ "pid":12345, "tid":12, "ts":1710238030111475, "dur":450, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/unity_project/Build/Dragon Flight test2/Dragon Flight.exe" }}
+,{ "pid":12345, "tid":12, "ts":1710238030111937, "dur":1130, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight.exe" }}
+,{ "pid":12345, "tid":12, "ts":1710238030114133, "dur":1703, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":12, "ts":1710238030117366, "dur":118, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1710238030115878, "dur":1616, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":12, "ts":1710238030117569, "dur":1007, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":12, "ts":1710238030118604, "dur":1275, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":12, "ts":1710238030119907, "dur":2322, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":12, "ts":1710238030124158, "dur":129, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1710238030122278, "dur":2027, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":12, "ts":1710238030124349, "dur":1067, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/Unity.Collections.LowLevel.ILSupport.dll" }}
+,{ "pid":12345, "tid":12, "ts":1710238030125465, "dur":2550, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/Unity.2D.SpriteShape.Runtime.dll" }}
+,{ "pid":12345, "tid":12, "ts":1710238030128042, "dur":2040, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/Unity.2D.IK.Runtime.dll" }}
+,{ "pid":12345, "tid":12, "ts":1710238030130137, "dur":52, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1710238030130136, "dur":54, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1710238030130205, "dur":1727, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1710238030131984, "dur":1795, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1710238030133814, "dur":3272, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1710238030137110, "dur":3004, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1710238030140148, "dur":5659, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1710238030145829, "dur":56564, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1710238030103550, "dur":2112, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1710238030105662, "dur":2392, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1710238030108055, "dur":136, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/unity_project/Build/Dragon Flight test2/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":13, "ts":1710238030128472, "dur":3229, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":13, "ts":1710238030131773, "dur":2620, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1710238030134464, "dur":3229, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1710238030137740, "dur":3237, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1710238030141004, "dur":3711, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1710238030144735, "dur":57660, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1710238030103579, "dur":2117, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1710238030105697, "dur":2328, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1710238030108032, "dur":100, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\machine.config" }}
+,{ "pid":12345, "tid":14, "ts":1710238030108025, "dur":108, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/unity_project/Build/Dragon Flight test2/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":14, "ts":1710238030125984, "dur":1067, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":14, "ts":1710238030127111, "dur":1659, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/Unity.InternalAPIEngineBridge.001.dll" }}
+,{ "pid":12345, "tid":14, "ts":1710238030128792, "dur":6895, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1710238030135734, "dur":2880, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1710238030138682, "dur":5382, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1710238030144515, "dur":57892, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1710238030103609, "dur":2090, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1710238030105700, "dur":2300, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1710238030108000, "dur":98, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/unity_project/Build/Dragon Flight test2/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":15, "ts":1710238030123972, "dur":1003, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":15, "ts":1710238030126903, "dur":354, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1710238030125033, "dur":2233, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":15, "ts":1710238030127341, "dur":2430, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/Unity.2D.Animation.Runtime.dll" }}
+,{ "pid":12345, "tid":15, "ts":1710238030129818, "dur":2183, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1710238030132052, "dur":2648, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1710238030134758, "dur":3603, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1710238030138435, "dur":3780, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1710238030142305, "dur":1841, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":15, "ts":1710238030144197, "dur":1319, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":15, "ts":1710238030145552, "dur":56857, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1710238030103638, "dur":2158, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1710238030105796, "dur":2256, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1710238030108062, "dur":162, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\machine.config" }}
+,{ "pid":12345, "tid":16, "ts":1710238030108052, "dur":173, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/unity_project/Build/Dragon Flight test2/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":16, "ts":1710238030110847, "dur":96, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1710238030109564, "dur":1387, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":16, "ts":1710238030111280, "dur":528, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":16, "ts":1710238030113316, "dur":983, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":16, "ts":1710238030114549, "dur":3705, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":16, "ts":1710238030118311, "dur":1143, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":16, "ts":1710238030119488, "dur":2974, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":16, "ts":1710238030122596, "dur":2903, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":16, "ts":1710238030125740, "dur":3019, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/Unity.Collections.dll" }}
+,{ "pid":12345, "tid":16, "ts":1710238030128784, "dur":3477, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1710238030132300, "dur":220, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1710238030132522, "dur":3503, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1710238030136213, "dur":3142, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1710238030139384, "dur":3663, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1710238030143072, "dur":1527, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":16, "ts":1710238030144630, "dur":57803, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1710238030103773, "dur":2069, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1710238030105843, "dur":2072, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1710238030107917, "dur":72, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/unity_project/Build/Dragon Flight test2/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":17, "ts":1710238030123211, "dur":9705, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":17, "ts":1710238030132948, "dur":3193, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1710238030136259, "dur":3123, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1710238030139449, "dur":6391, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1710238030145859, "dur":56572, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1710238030103681, "dur":2150, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1710238030105832, "dur":2216, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1710238030108057, "dur":138, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\web.config" }}
+,{ "pid":12345, "tid":18, "ts":1710238030108049, "dur":146, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/unity_project/Build/Dragon Flight test2/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":18, "ts":1710238030128981, "dur":4365, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":18, "ts":1710238030133375, "dur":2771, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1710238030136250, "dur":3220, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1710238030139561, "dur":4089, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1710238030144019, "dur":3368, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":18, "ts":1710238030147403, "dur":55008, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1710238030103700, "dur":2135, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1710238030105835, "dur":2208, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1710238030108043, "dur":128, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/unity_project/Build/Dragon Flight test2/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":19, "ts":1710238030126751, "dur":496, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1710238030127523, "dur":5643, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":19, "ts":1710238030133193, "dur":3026, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1710238030136253, "dur":2958, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1710238030139239, "dur":3667, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1710238030143009, "dur":729, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":19, "ts":1710238030143762, "dur":1276, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/level0" }}
+,{ "pid":12345, "tid":19, "ts":1710238030145106, "dur":57318, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1710238030103730, "dur":2108, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1710238030105838, "dur":2069, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1710238030108020, "dur":59, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1710238030108151, "dur":111, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\unity_project\\Dragon Flight\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":20, "ts":1710238030108263, "dur":56, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\unity_project\\Dragon Flight\\Library\\Bee\\PlayerScriptAssemblies\\Unity.2D.IK.Runtime.dll" }}
+,{ "pid":12345, "tid":20, "ts":1710238030108320, "dur":118, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\unity_project\\Dragon Flight\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Burst.dll" }}
+,{ "pid":12345, "tid":20, "ts":1710238030108439, "dur":315, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\unity_project\\Dragon Flight\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":20, "ts":1710238030108755, "dur":176, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\unity_project\\Dragon Flight\\Library\\Bee\\PlayerScriptAssemblies\\Unity.2D.Animation.Runtime.dll" }}
+,{ "pid":12345, "tid":20, "ts":1710238030108932, "dur":140, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\unity_project\\Dragon Flight\\Library\\Bee\\PlayerScriptAssemblies\\Unity.2D.Tilemap.Extras.dll" }}
+,{ "pid":12345, "tid":20, "ts":1710238030109073, "dur":269, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\unity_project\\Dragon Flight\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":20, "ts":1710238030109344, "dur":58, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\unity_project\\Dragon Flight\\Library\\Bee\\PlayerScriptAssemblies\\Unity.InternalAPIEngineBridge.001.dll" }}
+,{ "pid":12345, "tid":20, "ts":1710238030109403, "dur":75, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\unity_project\\Dragon Flight\\Library\\Bee\\PlayerScriptAssemblies\\Unity.2D.Common.Runtime.dll" }}
+,{ "pid":12345, "tid":20, "ts":1710238030109479, "dur":196, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\unity_project\\Dragon Flight\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":20, "ts":1710238030109676, "dur":131, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\unity_project\\Dragon Flight\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":20, "ts":1710238030109808, "dur":259, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\unity_project\\Dragon Flight\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Collections.dll" }}
+,{ "pid":12345, "tid":20, "ts":1710238030110068, "dur":115, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\unity_project\\Dragon Flight\\Library\\Bee\\PlayerScriptAssemblies\\Unity.2D.SpriteShape.Runtime.dll" }}
+,{ "pid":12345, "tid":20, "ts":1710238030110183, "dur":62, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\unity_project\\Dragon Flight\\Library\\Bee\\PlayerScriptAssemblies\\Unity.2D.PixelPerfect.dll" }}
+,{ "pid":12345, "tid":20, "ts":1710238030110246, "dur":521, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\unity_project\\Dragon Flight\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":20, "ts":1710238030110768, "dur":298, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\unity_project\\Dragon Flight\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":20, "ts":1710238030111067, "dur":64, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\unity_project\\Dragon Flight\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":20, "ts":1710238030107910, "dur":3319, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"GenerateNativePluginsForAssemblies Library/Bee/artifacts/WinPlayerBuildProgram/AsyncPluginsFromLinker" }}
+,{ "pid":12345, "tid":20, "ts":1710238030111230, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1710238030113687, "dur":63, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1710238030112642, "dur":1115, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Plugins/x86_64/lib_burst_generated.dll" }}
+,{ "pid":12345, "tid":20, "ts":1710238030114115, "dur":3733, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":20, "ts":1710238030119339, "dur":80, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1710238030117882, "dur":1544, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":20, "ts":1710238030119456, "dur":2704, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":20, "ts":1710238030122215, "dur":11243, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":20, "ts":1710238030133491, "dur":3334, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1710238030136860, "dur":3688, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1710238030140596, "dur":3808, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/unity_project/Build/Dragon Flight test2/Dragon Flight_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1710238030144426, "dur":57983, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1710238030206306, "dur":680, "ph":"X", "name": "ProfilerWriteOutput" }
+,
